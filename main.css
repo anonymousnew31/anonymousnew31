@@ -1,0 +1,13 @@
+body   { 
+	background-color: DeepSkyBlue; 
+	background-image: linear-gradient(white, DeepSkyBlue);
+	color: midnightblue;
+	min-height: 100vh;
+	display: grid;
+	grid-template-rows: 1fr 8em;
+}
+
+footer {
+	background: green linear-gradient(60deg, green, yellow, sienna);	
+	color: black;
+}
